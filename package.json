@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Visualize the ranking of the module in your repository.",
   "main": "test.js",
-  "bin": {
-    "require-ranking": "app.js"
-  },
+  "bin": "bin/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
