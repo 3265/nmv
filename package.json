@@ -1,0 +1,24 @@
+{
+  "name": "nmv",
+  "version": "1.0.0",
+  "description": "Visualize the ranking of the module in your repository.",
+  "main": "test.js",
+  "bin": {
+    "require-ranking": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^2.3.3",
+    "commander": "^2.8.1",
+    "esprima": "^2.6.0",
+    "esquery": "^0.4.0",
+    "estraverse": "^4.1.0",
+    "underscore": "^1.8.3"
+  }
+}

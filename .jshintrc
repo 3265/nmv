@@ -1,0 +1,25 @@
+{
+    "eqnull": true,
+    "expr": true,
+    "indent": 2,
+    "maxdepth": 5,
+    "node": true,
+    "jquery": true,
+    "browser": true,
+    "devel": true,
+    "debug": true,
+    "unused": true,
+    "undef": true,
+    "newcap": true,
+    "esnext": true,
+    "globals": {
+      "describe": true,
+      "it": true,
+      "before": true,
+      "beforeEach": true,
+      "after": true,
+      "afterEach": true,
+      "_": true,
+      "$": true
+    }
+}
