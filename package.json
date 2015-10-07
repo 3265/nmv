@@ -1,13 +1,13 @@
 {
   "name": "nmv",
-  "version": "1.0.1",
-  "description": "Visualize the ranking of the module in your repository.",
-  "main": "test.js",
+  "version": "1.0.4",
+  "description": "Visualize the ranking of the node modules in your repository.",
+  "main": "bin/app.js",
   "bin": "bin/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mgoldchild",
   "license": "MIT",
   "dependencies": {
     "async": "^1.4.2",

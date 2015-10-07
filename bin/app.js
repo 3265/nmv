@@ -30,7 +30,7 @@ async.waterfall([
     });
   }
 ],function(err, result) {
-  if (err) throw new Error('Require Module Faild', err);
+  if (err) throw new Error();
   printResult(result);
 });
 

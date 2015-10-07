@@ -1,22 +1,15 @@
 #NMV
 Visualize the ranking of the module in your repository.
 
+![nmv](./img/nmv.png)
+
 ##install
 ```
 npm install -g nmv
 ```
 
 ##usage
-parameters
-
-##example
 ```
-cd /your/repository/path
+nmv /path/to/your/repository
 ```
 
-##hacks
-
-
-##references
-esprima.org/demo/parse.html
-https://estools.github.io/esquery/
