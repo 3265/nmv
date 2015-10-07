@@ -15,10 +15,10 @@ $ nmv /path/to/your/repository
 ```
 
 ##Keyboard shortcuts
-Press u or C-c key to quite the NMV.
-Press tab key to change the window.
-Press Arrow up key to move up.
-Press Arrow down key to move down.
+Press u or C-c key to quite the NMV.  
+Press tab key to change the window.  
+Press Arrow up key to move up.  
+Press Arrow down key to move down. 
 
 ##Contributors
 
