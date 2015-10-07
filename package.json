@@ -1,6 +1,6 @@
 {
   "name": "nmv",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Visualize the ranking of the node modules in your repository.",
   "main": "bin/app.js",
   "bin": "bin/app.js",
