@@ -1,11 +1,15 @@
 {
   "name": "nmv",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Visualize the ranking of the node modules in your repository.",
   "main": "bin/app.js",
   "bin": "bin/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgoldchild/nmv"
   },
   "author": "mgoldchild",
   "license": "MIT",

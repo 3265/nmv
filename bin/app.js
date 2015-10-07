@@ -28,7 +28,7 @@ async.waterfall([
     });
   }
 ],function(err, result) {
-  if (err) throw new Error();
+  if (err) throw new Error(err);
   printResult(result);
 });
 

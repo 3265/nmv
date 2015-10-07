@@ -1,15 +1,16 @@
 #NMV
-Visualize the ranking of the module in your repository.
+Visualize the ranking of the node modules in your repository.
 
-![nmv](./img/nmv.png)
+![nmv](https://raw.githubusercontent.com/mgoldchild/nmv/master/img/nmv.png)
 
-##install
+##Install
 ```
 npm install -g nmv
 ```
 
-##usage
+##Usage
 ```
 nmv /path/to/your/repository
 ```
 
+##Contributors
