@@ -10,8 +10,6 @@ var printResult = require(path.join(__dirname, '..', 'lib', 'print'));
 
 program
   .version(pkg.version)
-  .option('-s, --show', 'show your commit')
-  .arguments('<cmd> [env]')
   .parse(process.argv);
 
 var src = (program.args.length === 0) ? '.' : program.args[0];
