@@ -1,6 +1,6 @@
 {
   "name": "nmv",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Node Module Visualizer",
   "main": "bin/app.js",
   "bin": "bin/app.js",
